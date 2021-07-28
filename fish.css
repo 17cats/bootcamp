@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline wavy red;
+}
+
+p {
+    line-height: 2;
+}
+

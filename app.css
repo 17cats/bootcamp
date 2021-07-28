@@ -1,12 +1,17 @@
-h1{
+h1 {
     color: red;
 }
 
-h2{
+h2 {
     color: teal;
+    background-color: #272c35;
 }
 
-button{
+button {
     color: olivedrab;
-    background-color: #c787ff;
+    background-color: #155a51;
+}
+
+span {
+    background-color: rgb(33, 125, 189);
 }
