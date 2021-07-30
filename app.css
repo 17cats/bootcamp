@@ -28,3 +28,49 @@ h1, h2 {
 footer a {
     color: #e9c46a;
 }
+
+h2 + button {
+    font-size: 20px;
+}
+
+nav > a {
+    color: green;
+}
+
+input[type="password"] {
+    color: red;
+}
+
+a[href*="google"] {
+    color: magenta;
+}
+
+button:hover {
+    background-color: #d62828;
+    color: #eae2b7;
+}
+
+.post button:hover {
+    background-color: #003049;
+    color: #eae2b7;
+}
+
+.post a {
+    font-weight: 900;
+}
+
+.post a:hover {
+    color: #7209b7;
+}
+
+button:active {
+    background-color: #e07a5f;
+}
+
+.post {
+    background-color: #ccd7b8;
+}
+
+.post:nth-of-type(2n) {
+    background-color: #9ea98f;
+}
