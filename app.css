@@ -8,7 +8,7 @@ button {
 }
 
 #signup {
-    background-color: #D9BBF9;
+    background-color: #683b98;
 }
 
 body {
@@ -73,4 +73,21 @@ button:active {
 
 .post:nth-of-type(2n) {
     background-color: #9ea98f;
+}
+
+h2::first-letter{
+    font-size: 50px;
+}
+
+p::first-line{
+    color: purple;
+}
+
+span::selection{
+    background-color: yellow;
+}
+
+button:hover{
+    background-color: olive;
+    font-size: 10px;
 }
