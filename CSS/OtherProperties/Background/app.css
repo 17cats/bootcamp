@@ -1,11 +1,10 @@
 section {
     width: 80%;
-    height: 800px;
-    background-color: purple;
+    height: 500px;
     margin: 0 auto;
+    background:  center/cover no-repeat url('https://images.unsplash.com/photo-1604435440427-46c86656f9ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80');
 }
 
 h1{
-    font-size: 100px;
     color: white;
 }
